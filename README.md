@@ -1,6 +1,6 @@
 # scientific-mcps-Podman/docker
 
-# 🔪 Scientific MCPs + Gemini CLI /PodmanDocker Environment
+# 🔪 Scientific MCPs + Gemini CLI for Podman/Docker Environment
 
 This repository contains a pre-configured Docker/Podman environment to run the [scientific-mcps](https://github.com/iowarp/scientific-mcps) project using the **Gemini CLI** and `uv`.
 
