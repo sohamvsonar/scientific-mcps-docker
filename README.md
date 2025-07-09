@@ -35,7 +35,7 @@ docker build -t scientific-mcps-gemini .
 
 ## ▶️ Run the Container
 
-### 🔵 Option 1: Run with environment variable
+### 🔵 Option 1: Run directly with Gemini Api Key variable
 
 ```bash
 docker run -it -e GEMINI_API_KEY=your-api-key scientific-mcps-gemini
