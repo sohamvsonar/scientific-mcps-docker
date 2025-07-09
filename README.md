@@ -18,7 +18,7 @@ Get your Gemini API key from [Google AI Studio](https://aistudio.google.com/)
 ## 📁 Clone This Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/scientific-mcps-docker.git
+git clone https://github.com/sohamvsonar/scientific-mcps-docker.git
 cd scientific-mcps-docker
 cd gemini-cli
 ```
